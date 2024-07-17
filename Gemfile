@@ -70,5 +70,8 @@ gem "sassc-rails"
 gem "devise"
 gem "devise-i18n"
 gem "devise-bootstrap5"
-
 gem "stripe", "~> 12.2"
+gem "carrierwave"
+gem "mini_magick"
+gem 'fog-aliyun'
+
