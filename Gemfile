@@ -72,6 +72,5 @@ gem "devise-i18n"
 gem "devise-bootstrap5"
 gem "stripe", "~> 12.2"
 gem "carrierwave"
-gem "mini_magick"
+gem 'mini_magick', '~> 4.11'
 gem 'fog-aliyun'
-
